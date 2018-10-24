@@ -68,4 +68,4 @@ section {
     display: grid;
     grid-template-rows: 100px auto 100px;
     grid-template-columns: 25% 50% 25%;
-}
+} 
